@@ -1,7 +1,7 @@
-('D:\\AI songs\\Git\\Unify---Subtitle-Converter\\build\\Unify - Subtitle '
+('D:\\AI songs\\Git\\Unify-Subtitle-Converter\\build\\Unify - Subtitle '
  'Converter\\PYZ-00.pyz',
  [('ASS2YTT_Converter',
-   'D:\\AI songs\\Git\\Unify---Subtitle-Converter\\ASS2YTT_Converter.py',
+   'D:\\AI songs\\Git\\Unify-Subtitle-Converter\\ASS2YTT_Converter.py',
    'PYMODULE'),
   ('PIL',
    'C:\\Users\\dkono\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PIL\\__init__.py',
@@ -232,7 +232,7 @@
    'C:\\Users\\dkono\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\PIL\\features.py',
    'PYMODULE'),
   ('Rich_Converter',
-   'D:\\AI songs\\Git\\Unify---Subtitle-Converter\\Rich_Converter.py',
+   'D:\\AI songs\\Git\\Unify-Subtitle-Converter\\Rich_Converter.py',
    'PYMODULE'),
   ('__future__',
    'C:\\Users\\dkono\\AppData\\Local\\Programs\\Python\\Python310\\lib\\__future__.py',
@@ -505,7 +505,7 @@
    'C:\\Users\\dkono\\AppData\\Local\\Programs\\Python\\Python310\\lib\\contextvars.py',
    'PYMODULE'),
   ('convert_ytt2vtt',
-   'D:\\AI songs\\Git\\Unify---Subtitle-Converter\\convert_ytt2vtt.py',
+   'D:\\AI songs\\Git\\Unify-Subtitle-Converter\\convert_ytt2vtt.py',
    'PYMODULE'),
   ('copy',
    'C:\\Users\\dkono\\AppData\\Local\\Programs\\Python\\Python310\\lib\\copy.py',
