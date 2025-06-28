@@ -15,7 +15,7 @@ import convert_ytt2vtt
 
 # --- VERSION INFO ---
 CURRENT_VERSION = "1.1.0"
-VERSION_FILE_URL = "https://raw.githubusercontent.com/DanKop1/Unify-Subtitle-Converter/main/version.txt"
+VERSION_FILE_URL = "https://raw.githubusercontent.com/DanKop1/Unify-Subtitle-Converter/Main/version.txt"
 RELEASE_PAGE_URL = "https://github.com/DanKop1/Unify-Subtitle-Converter/releases/latest"
 
 def get_latest_version():
