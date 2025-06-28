@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="Logo.ico" --add-data "Logo.ico;." --add-data "Logo name.png;." --add-data "fonts.txt;." "Unify - Subtitle Converter.py"
